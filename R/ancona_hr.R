@@ -1,0 +1,17 @@
+#' Data of nominal brown shrimp prices by size
+#'
+#' Shrimp are classified by size, 0-15 shrimp per pound, 15-20 shrimp per pound, etc. A smaller number per pound indicates larger shrimp. Nominal prices are total monthly value of brown shrimp andings within size class divided by total monthly landings within the size class.
+#'
+#' @format A tibble with 243 rows and 10 variables:
+#' \describe{
+#'   \item{pltnt}{chr l'inquinante}
+#'   \item{terminal}{dbl il terminal}
+#'   \item{Emiss_HOT}{dbl }
+#'   \item{Emiss_MAN}{dbl }
+#'   \item{Emiss_tug}{dbl }
+#'   \item{Emiss_Cter}{dbl }
+#'   \item{Emiss_Cext}{dbl }
+#'   \item{data}{dbl }
+#' }
+#' @source \url{https://www.pnas.org/content/114/7/1512/tab-figures-data}
+"ancona_hr"
