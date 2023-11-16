@@ -14,4 +14,4 @@
 #'   \item{data}{dbl }
 #' }
 #' @source \url{https://www.pnas.org/content/114/7/1512/tab-figures-data}
-"df_hr"
+"bari_hr"
