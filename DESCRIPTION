@@ -1,6 +1,6 @@
 Package: datiPorti
 Title: What the Package Does (One Line, Title Case)
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: 
     person("First", "Last", , "raffaele.morelli@isprambiente.it", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
